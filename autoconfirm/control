@@ -1,9 +1,9 @@
-Package: com.gadfly2084.autoconfirm
+Package: com.gadfly0x.autoconfirm
 Name: AutoConfirm
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: 各种弹出框（地理位置、推送通知等）自动确认
-Maintainer: gadfly2084
-Author: gadfly2084
+Maintainer: gadfly0x
+Author: gadfly0x
 Section: Tweaks

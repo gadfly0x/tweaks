@@ -1,9 +1,9 @@
-Package: com.gadfly2084.textplus
+Package: com.gadfly0x.textplus
 Name: TextPlus
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: textPlus首次打开时自动授权通知，打印DeviceToken
-Maintainer: gadfly2084
-Author: gadfly2084
+Maintainer: gadfly0x
+Author: gadfly0x
 Section: Tweaks
